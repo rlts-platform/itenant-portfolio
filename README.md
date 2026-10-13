@@ -47,6 +47,10 @@ iTenant includes a range of property-management screens and workflows. How well 
 - [Try the Demo](https://i-tenant.com/demo)
 
 
+## Source Showcase
+
+A sanitized, presentation-only React component demonstrates occupancy calculations and a property summary without any backend connection: [View the code sample](showcase/OccupancySummary.jsx).
+
 ## Source Code & Intellectual Property Notice
 
 This public repository is a limited portfolio showcase, not a release of the complete commercial application. Selected examples are provided to demonstrate project structure, implementation approach, and development work. Significant proprietary workflows, full application source, backend logic, and integrations are intentionally kept private because these products represent substantial original work developed for commercial use.
